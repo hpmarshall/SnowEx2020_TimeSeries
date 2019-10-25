@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Folder>
-  <name>hpmarshall_plan0016 (UAVSAR flight plan)</name>
+  <name>hpmarshall_plan0018 (UAVSAR flight plan)</name>
   <open>1</open>
 
   <Folder>
@@ -48,7 +48,7 @@
     </LineString>      
   </Placemark>
   <Placemark>    
-	<name>hpma13_340aa</name>
+	<name>hpma13_338aa</name>
     <description>Radar swath</description>
     <Style>    
       <LineStyle>
@@ -59,11 +59,31 @@
 	<LineString>          
 	  <altitudeMode>clampToGround</altitudeMode>          
 		<coordinates> 
-		  -120.17491206699401,38.612862997269
-		  -119.93997408042299,38.678928874771
-		  -120.42793874936001,39.733073125608
-		  -120.666410958043,39.667019236539
-		  -120.17491206699401,38.612862997269
+		  -120.17353397916798,38.608817913791
+		  -119.94134037078402,38.682976648893
+		  -120.34123974777503,39.446474753714
+		  -120.57594479958198,39.372325755182
+		  -120.17353397916798,38.608817913791
+		</coordinates>            
+    </LineString>      
+  </Placemark>
+  <Placemark>    
+	<name>hpma18_039aa</name>
+    <description>Radar swath</description>
+    <Style>    
+      <LineStyle>
+        <color>ffe1edb4</color>
+        <width>2</width>
+      </LineStyle>
+	</Style>   
+	<LineString>          
+	  <altitudeMode>clampToGround</altitudeMode>          
+		<coordinates> 
+		  -120.50883951778201,39.338031559761
+		  -120.30878422591599,39.213019852214
+		  -120.015684444452,39.494473455733
+		  -120.21654580860297,39.619479095904
+		  -120.50883951778201,39.338031559761
 		</coordinates>            
     </LineString>      
   </Placemark>
@@ -208,7 +228,7 @@
     </LineString>      
   </Placemark>
   <Placemark>    
-	<name>hpma08_321ac</name>
+	<name>hpma07_233aa</name>
     <description>Radar swath</description>
     <Style>    
       <LineStyle>
@@ -219,51 +239,11 @@
 	<LineString>          
 	  <altitudeMode>clampToGround</altitudeMode>          
 		<coordinates> 
-		  -105.777906511161,40.279644508326
-		  -105.58357779650498,40.400191061252
-		  -105.91938945926097,40.715618540813
-		  -106.11463042235101,40.595078589848
-		  -105.777906511161,40.279644508326
-		</coordinates>            
-    </LineString>      
-  </Placemark>
-  <Placemark>    
-	<name>hpma07_052aa</name>
-    <description>Radar swath</description>
-    <Style>    
-      <LineStyle>
-        <color>ffe1edb4</color>
-        <width>2</width>
-      </LineStyle>
-	</Style>   
-	<LineString>          
-	  <altitudeMode>clampToGround</altitudeMode>          
-		<coordinates> 
-		  -106.03497662671703,39.876426957869
-		  -105.88020932324099,39.727107148578
-		  -105.32287519672298,40.067504889407
-		  -105.478412138235,40.216815902267
-		  -106.03497662671703,39.876426957869
-		</coordinates>            
-    </LineString>      
-  </Placemark>
-  <Placemark>    
-	<name>hpma07_231aa</name>
-    <description>Radar swath</description>
-    <Style>    
-      <LineStyle>
-        <color>ffe1edb4</color>
-        <width>2</width>
-      </LineStyle>
-	</Style>   
-	<LineString>          
-	  <altitudeMode>clampToGround</altitudeMode>          
-		<coordinates> 
-		  -105.44099602043298,40.060255607579
-		  -105.59924908701299,40.211465040472
-		  -106.16128916086598,39.861547875686
-		  -106.00384072122597,39.710329285742
-		  -105.44099602043298,40.060255607579
+		  -105.44922825515602,40.059664255178
+		  -105.60200079288597,40.214159823127
+		  -106.168193338702,39.881130225164
+		  -106.01616041478201,39.726625752267
+		  -105.44922825515602,40.059664255178
 		</coordinates>            
     </LineString>      
   </Placemark>
@@ -434,7 +414,7 @@
     </LineString>      
   </Placemark>
   <Placemark>        
-	<name>hpma13_340aa</name>
+	<name>hpma13_338aa</name>
     <description>Processed swath</description>     
     <Style>      
       <LineStyle>
@@ -445,11 +425,31 @@
 	<LineString>          
 	  <altitudeMode>clampToGround</altitudeMode>      
 	    <coordinates> 
-		  -120.197404644242,38.662042817454
-		  -120.02742118125201,38.709846784497
-		  -120.435518213011,39.589322838172
-		  -120.60829853081202,39.541526709836
-		  -120.197404644242,38.662042817454
+		  -120.19866676905099,38.657204470013
+		  -120.030387269921,38.710959018059
+		  -120.34092673525498,39.302594789641
+		  -120.511277450884,39.248846122128
+		  -120.19866676905099,38.657204470013
+		</coordinates>            
+    </LineString>      
+  </Placemark>
+  <Placemark>        
+	<name>hpma18_039aa</name>
+    <description>Processed swath</description>     
+    <Style>      
+      <LineStyle>
+        <color>ff0071fa</color>
+        <width>2</width>
+      </LineStyle>
+	</Style>   
+	<LineString>          
+	  <altitudeMode>clampToGround</altitudeMode>      
+	    <coordinates> 
+		  -120.46666111005698,39.378738597887
+		  -120.32088107306998,39.287578470213
+		  -120.17763628472801,39.424382285957
+		  -120.324384260037,39.515540136108
+		  -120.46666111005698,39.378738597887
 		</coordinates>            
     </LineString>      
   </Placemark>
@@ -594,7 +594,7 @@
     </LineString>      
   </Placemark>
   <Placemark>        
-	<name>hpma08_321ac</name>
+	<name>hpma07_233aa</name>
     <description>Processed swath</description>     
     <Style>      
       <LineStyle>
@@ -605,51 +605,11 @@
 	<LineString>          
 	  <altitudeMode>clampToGround</altitudeMode>      
 	    <coordinates> 
-		  -105.82087985714799,40.320211850568
-		  -105.68153572307199,40.406717879111
-		  -105.86430542082701,40.577996776696
-		  -106.00469598955203,40.491493588801
-		  -105.82087985714799,40.320211850568
-		</coordinates>            
-    </LineString>      
-  </Placemark>
-  <Placemark>        
-	<name>hpma07_052aa</name>
-    <description>Processed swath</description>     
-    <Style>      
-      <LineStyle>
-        <color>ff0071fa</color>
-        <width>2</width>
-      </LineStyle>
-	</Style>   
-	<LineString>          
-	  <altitudeMode>clampToGround</altitudeMode>      
-	    <coordinates> 
-		  -105.98199576147397,39.909033506515
-		  -105.87109147611801,39.801915096784
-		  -105.50210727094799,40.026392717625
-		  -105.61404846433697,40.133506676503
-		  -105.98199576147397,39.909033506515
-		</coordinates>            
-    </LineString>      
-  </Placemark>
-  <Placemark>        
-	<name>hpma07_231aa</name>
-    <description>Processed swath</description>     
-    <Style>      
-      <LineStyle>
-        <color>ff0071fa</color>
-        <width>2</width>
-      </LineStyle>
-	</Style>   
-	<LineString>          
-	  <altitudeMode>clampToGround</altitudeMode>      
-	    <coordinates> 
-		  -105.49396952094503,40.027530801185
-		  -105.60824977376001,40.136605322026
-		  -105.98233808570501,39.902807826417
-		  -105.86912575489998,39.793729177135
-		  -105.49396952094503,40.027530801185
+		  -105.50335342973403,40.028072292709
+		  -105.613684074665,40.139517997388
+		  -105.98778723811,39.918579403237
+		  -105.87849103268098,39.80712975416
+		  -105.50335342973403,40.028072292709
 		</coordinates>            
     </LineString>      
   </Placemark>
